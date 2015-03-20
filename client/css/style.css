@@ -3,6 +3,10 @@
  * Last Modified: 2015-02-24T16:05:33
  */
 
+/* Page */
+body {
+   background-color: #f7f7f7;
+}
 
 /* Navigation Bar */
 .nav a {
@@ -20,8 +24,8 @@
 
 /* Jumbotron Title Panel */
 .jumbotron {
-   height: 400px;
-   background-image: url("");
+   height: 450px;
+   background-image: url("http://duho.sofkenforum.com/images/cover.jpg");
    background-repeat: no-repeat;
    background-size: cover;
 }
@@ -29,25 +33,19 @@
 .jumbotron .container {
    position: relative;
    top: 100px;
+   text-align: center;
 }
 
 .jumbotron h1 {
-   color: black;
-   font-size: 48px;
+   color: #202020;
+   font-size: 72px;
    font-weight: bold;
    font-family: "Shift", sans-serif;
 }
 
 .jumbotron p {
-   color: black;
+   color: yellow;
    font-size: 20px;
-}
-
-.jumbotron a {
-   color: green;
-   bottom: 100px;
-   position: absolute;
-   top: 130px;
 }
 
 
