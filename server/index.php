@@ -8,7 +8,7 @@
 
 <head>
    <meta charset="UTF-8">
-   <title>Sofken Server</title>
+   <title>Sofken Forum Server</title>
 </head>
 
 <body>
