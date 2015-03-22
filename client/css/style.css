@@ -43,11 +43,18 @@ body {
    font-family: "Shift", sans-serif;
 }
 
-.jumbotron p {
+#top {
    color: #68be8d;
    font-size: 20px;
 }
 
+#link {
+   top: 140px;
+   position: relative;
+   color: #000000;
+   font-size: 15px;
+   text-align: right;
+}
 
 /* Access more information panel */
 .learn-more {
